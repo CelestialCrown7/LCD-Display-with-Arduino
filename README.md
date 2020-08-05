@@ -9,7 +9,7 @@ The components you will need for this project are:
 - Breadboard
 - 16 male-to-male jumper wires
 
-![Components](/images/Arduino.jpg)
+![Components](Arduino.jpg)
 
 ------------------------------------
 
