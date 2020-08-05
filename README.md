@@ -16,7 +16,7 @@ The components you will need for this project are:
 # LCD Display
 Your LCD display should have 16 pins coming out from the bottom.
 
-![LCD Pins](/images/LCDPins.jpg)
+![LCD Pins](LCDPins.jpg)
 
 Each pin has different functions:
 - VSS: Pin that connects to ground.
@@ -32,7 +32,7 @@ Each pin has different functions:
 
 # Connection Schematic
 
-![Connection Schematic](/images/CS.jpg)
+![Connection Schematic](CS.jpg)
 
 The LCD display needs 6 arduino pins, all set to be digital outputs. It also needs ground and 5v connections.
 
@@ -41,9 +41,9 @@ The LCD display needs 6 arduino pins, all set to be digital outputs. It also nee
 # Wiring Diagram
 The wiring should look something like this.
 
-![Wiring Diagram](/images/WD.jpg)
+![Wiring Diagram](WD.jpg)
 
-![Wiring Diagram](/images/WD2.jpg)
+![Wiring Diagram](WD2.jpg)
 
 -------------------------------------------
 
@@ -76,8 +76,8 @@ To use this code you should download the [Arduino IDE](https://www.arduino.cc/en
 ---------------------------------------------------
 If you did everything properly this is what you should end up with.
 
-![Finished Product](/images/Complete.jpg)
+![Finished Product](Complete.jpg)
 
-.
+
  
 
